@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="reminder">Reminder</string>
+    <string name="no_reminders">You don’t have\nreminders yet</string>
+    <string name="label_reminder_desc">Set up analytics in the application</string>
+    <string name="label_date_time">12:50, 10 Jan</string>
+    <string name="label_reminder_text">Reminder Text</string>
+    <string name="label_next">Next</string>
+    <string name="label_new_reminder">New reminder</string>
+    <string name="error_msg">Fill in the field please</string>
+</resources>

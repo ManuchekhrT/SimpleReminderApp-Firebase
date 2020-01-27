@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Напоминание</string>
+    <string name="reminder">Напоминание</string>
+    <string name="no_reminders">У вас пока нет\nнапоминаний</string>
+    <string name="label_reminder_desc">Настроить аналитику в приложении</string>
+    <string name="label_date_time">12:50, 10 янв.</string>
+    <string name="label_reminder_text">Текст напоминания</string>
+    <string name="label_next">Далее</string>
+    <string name="label_new_reminder">Новое напоминание</string>
+    <string name="error_msg">Заполните поле пожалуйста</string>
+</resources>
