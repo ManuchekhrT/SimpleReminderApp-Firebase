@@ -4,13 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context=".ui.create.DateActivity"
     tools:showIn="@layout/activity_main">
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:layout_marginStart="14dp"
         android:layout_marginLeft="14dp"
         android:layout_marginTop="17dp"
@@ -26,12 +25,8 @@
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/reminderListRv"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:clickable="true"
-            android:focusable="true"
+            android:layout_height="match_parent"
             android:background="@color/colorBackground"
-            tools:listitem="@layout/item_reminder"
-            android:focusableInTouchMode="true"
             android:scrollbars="vertical"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
